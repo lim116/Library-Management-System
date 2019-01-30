@@ -1,0 +1,3 @@
+  C19000       LIM_CHUN_YUAN              123456        0  1
+  C19001       YUAN_CHUN_LIM              123456        0  0
+  C19002       CHUN_YUAN_LIM              123456        0  0

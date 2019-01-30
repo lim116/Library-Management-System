@@ -1,0 +1,4 @@
+  B19000      PROGRAM_DESIGN       YUAN_CHUN_LIM        O
+  B19002            DATABASE       LIM_CHUN_YUAN        X
+  B19003            DATA_COM       LIM_CHUN_YUAN        O
+  B19004              VB.NET       LIM_CHUN_YUAN        O
